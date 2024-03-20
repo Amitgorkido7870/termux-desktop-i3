@@ -15,7 +15,7 @@ pkg install git
 
 - Clone this repository
 ```
-git clone --depth=1 https://github.com/Gorkido/termux-desktop-i3.git
+git clone --depth=1 https://github.com/Amitgorkido7870/windows-365.Arach-x64.git
 ```
 
 - CD to cloned directory and run **setup.sh** with `--install` option. And if you wish to configure *Termux-Boot*, run **setup.sh** with `--termux-boot` option.
@@ -27,7 +27,7 @@ chmod +x setup.sh
 
 - Alternatively you can use this one lined command.
 ```
-pkg install -y git && cd $HOME && rm -rf termux-desktop-i3 && git clone --depth=1 https://github.com/Gorkido/termux-desktop-i3.git && cd windows 365.Arach x64 && chmod +x setup.sh && ./setup.sh --install
+pkg install -y git && cd $HOME && rm -rf windows-365.Arach-x64 && git clone --depth=1 https://github.com/Amitgorkido7870/windows-365.Arach-x64.git && cd windows 365.Arach x64 && chmod +x setup.sh && ./setup.sh --install
 ```
 
 ## Uninstallation
