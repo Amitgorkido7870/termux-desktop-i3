@@ -39,7 +39,7 @@ If you want to uninstall *windows 365.Arach x64*, run **setup.sh** with `--unins
 
 ## Preview
 
-![image](https://images.app.goo.gl/iVVQTEF7TC8YaW9F6)
+![image](Screenshot_20240319-163419_RVNC Viewer)
 
 [Installation Video](url of your video)
 
