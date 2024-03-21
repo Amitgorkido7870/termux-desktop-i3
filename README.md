@@ -47,4 +47,4 @@ If you want to uninstall *windows 365.Arach x64*, run **setup.sh** with `--unins
 
 This repository is a different version of [termux-desktop](dotfiles -gorkido-).
 
-If you need help join our facebook page: facebook page url
+If you need help join our facebook page: https://www.facebook.com/profile.php?id=100086467316205&mibextid=ZbWKwL
