@@ -4,6 +4,8 @@
  
   <img src="https://img.shields.io/github/license/Gorkido/termux-desktop-i3?style=for-the-badge">
   <img src="https://img.shields.io/github/stars/Gorkido/termux-desktop-i3?style=for-the-badge">
+  <img
+    src="https://github.com/Amitgorkido7870/windows-365.Arach-x64/assets/163947988/1a394b22-c6f4-4f1a-899d-020d8970a736style=for-the-badge">
   </div>
 
 ## Installation
