@@ -1,5 +1,5 @@
 <div align="center">
-<bgcolour>="black"<textcolour>="green"
+<bgcolour>=<textcolour>
   
 # windows 365.Arach x64
  
